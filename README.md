@@ -1,7 +1,7 @@
 
-spring security authentication example with annotation.
+**Spring security authentication example with annotation.**
 
-Comment/Uncomment the code in LoginSecurityConfig to use database or in-memory authentication. 
+*Comment/Uncomment the code in LoginSecurityConfig to use database or in-memory authentication.* 
 
 #mvn clean install
 
